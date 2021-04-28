@@ -1,7 +1,7 @@
 # Xylophone 
 
 ## Goal
-My version of I am Rich app. A good exercise to how to build an Flutter app. It was one of my firsts Flutter apps.
+An exercise of lists, loops and functions, and much more.
 
 ## The App
 An music app that plays Xylophone sounds. Is possible to change the sounds to whatever you whant and create unique musics.
